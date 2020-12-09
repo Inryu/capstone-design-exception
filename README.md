@@ -18,22 +18,38 @@
 ![웹 1920 – 7](https://user-images.githubusercontent.com/55133794/101447734-1f098900-3969-11eb-868d-f8f66dc6e480.png)
 
 
-## 폴더 설명
+## 폴더 설명(기술블로그 내용)
 
 ### crawling
 
 크롤러
 
+https://kagus2.tistory.com/10
+
 ### deep-learning
 
 밑바닥부터 시작하는 딥러닝 스터디
+
+https://myunji.tistory.com/106
+
+https://inryulog.tistory.com/23
 
 ### deep-learning-example
 
 딥러닝 스터디 이후 데이터 수집 및 딥러닝 모델 제작
 
+https://iagreebut.tistory.com/category/ML
 
-## 시연 영상
+
+
+## Reference
+
+###밑바닥부터 시작하는 딥러닝
+
+###딥러닝의 정석 
+
+
+## 시연 영상(인스타그래 웹 크롤러)
 
 https://youtu.be/rHu7JxtRszc
 
