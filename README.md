@@ -44,10 +44,12 @@ https://iagreebut.tistory.com/category/ML
 
 ## Reference
 
-###밑바닥부터 시작하는 딥러닝
+밑바닥부터 시작하는 딥러닝
+
 ![스크린샷 2020-12-09 오후 4 14 12](https://user-images.githubusercontent.com/74401770/101597165-ae7e6d00-3a39-11eb-9f7a-64f4de90daa6.png)
 
-###딥러닝의 정석 
+딥러닝의 정석 
+
 ![스크린샷 2020-12-09 오후 4 13 58](https://user-images.githubusercontent.com/74401770/101597195-b8a06b80-3a39-11eb-8f93-d8e41243a572.png)
 
 
