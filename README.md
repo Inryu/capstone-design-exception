@@ -48,7 +48,7 @@
 ![스크린샷 2020-12-09 오후 4 13 58](https://user-images.githubusercontent.com/74401770/101597195-b8a06b80-3a39-11eb-8f93-d8e41243a572.png)
 
 
-## 시연 영상(인스타그래 웹 크롤러)
+## 시연 영상(인스타그램 웹 크롤러 및 프로토UI)
 
-https://youtu.be/rHu7JxtRszc
+https://youtu.be/tmMHLxWRlwc
 
